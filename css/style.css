@@ -52,9 +52,11 @@
 }
 
 .item-text {
+    width: 50%;
     color: white;
     position: absolute;
     right: 0;
+    top: 50%;
 }
 
 .active {
